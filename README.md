@@ -4,7 +4,7 @@
 <div>
   <a href="https://beacons.ai/AlanyLourenco">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=AlanyLourenco&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanyLourenco&layout=compact&langs_count=16&theme=material-palenighgraywhitet"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanyLourenco&layout=compact&langs_count=16&theme=graywhitet"/>
 </div>
   
 <div style="display: inline_block"><br>
