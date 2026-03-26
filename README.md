@@ -24,20 +24,24 @@
   
 </p>
 
-<h2 align="center">👤 About me</h2>
+<h2 align="center"> About me</h2>
 
 
 <div align="center">
   
 <img align="right" src="https://github.com/AlanyLourenco/AlanyLourenco/blob/main/alany01.png" width="220px" style="border-radius:50%">
 
-<p align="left">
-Hello There! I'm Alany Paço, a Software Engineering student. I enjoy learning new technologies and exploring the world of data, design, and software engineering.<br><br>
+<p style="text-align: left; max-width: 600px; margin: 0 auto>
+  
+Hello there! I'm Alany Paço, a Software Engineering student passionate about building meaningful digital experiences. I enjoy exploring new technologies and connecting the worlds of data, design, and software development.<br>
 
-🎓 Studying at Federal University of Goiás (UFG)<br>
-📊 Passionate about Data & Business Intelligence<br>
-🎨 Interested in UI/UX Design<br>
-🏗️ Learning Software Architecture
+🎓 Currently finishing my degree at the Federal University of Goiás (UFG)<br>
+📊 Strong interest in Data & Business Intelligence, with experience in dashboard creation<br>
+🎨 Enthusiast of UI/UX Design, focused on creating intuitive and engaging interfaces<br>
+💻 Experience with Kotlin, Flutter, Java, SQL, and modern development practices<br>
+🤖 Exploring AI tools and intelligent agents to enhance productivity and innovation<br>
+🏗️ Continuously learning Software Architecture and scalable system design
+
 </p>
 
 </div>
