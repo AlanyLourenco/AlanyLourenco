@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://github.com/AlanyLourenco/AlanyLourenco/blob/main/alany.png" width="800px" style="border-radius:50%" />
+  <img src="https://github.com/AlanyLourenco/AlanyLourenco/blob/main/alany.png" width="800px" style="border-radius:50" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/alany-paco-6b20a4224/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-967878?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://github.com/AlanyLourenco/AlanyLourenco/">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-967878?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
   <a href="alanygabi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-967878?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-967878?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="SEU_SITE">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-967878?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   
 </p>
@@ -46,5 +46,61 @@ Hello there! I'm Alany Paço, a Software Engineering student passionate about bu
 
 </div>
 
+<h2 align="center"> Technologies</h2>
 
+</p>
+<p align="center">
+  
+<a>
+  <img src="https://img.shields.io/badge/C-967878?style=for-the-badge&logo=c&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Java-967878?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Kotlin-967878?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Python-967878?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/R-967878?style=for-the-badge&logo=r&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/HTML5-967878?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/CSS3-967878?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/JavaScript-967878?style=for-the-badge&logo=javascript&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Flutter-967878?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/SQL-967878?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Git-967878?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+</p>
+
+<h2 align="center"> Statistics</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanylourenco&show_icons=true&theme=dark&bg_color=6d5959&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alanylourenco&theme=dark&background=6d5959&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=30363d"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanylourenco&bg_color=6d5959&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
