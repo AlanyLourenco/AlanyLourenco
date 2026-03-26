@@ -47,7 +47,7 @@ Hello there! I'm Alany Paço, a Software Engineering student passionate about bu
 </div>
 
 <h2 align="center"> Technologies</h2>
-
+<br/>
 </p>
 <p align="center">
   
@@ -86,21 +86,16 @@ Hello there! I'm Alany Paço, a Software Engineering student passionate about bu
 </a>
 </p>
 
+<br/>
+
 <h2 align="center"> Statistics</h2>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alanylourenco&show_icons=true&theme=dark&bg_color=6d5959&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alanylourenco&theme=dark&background=6d5959&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=30363d"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanylourenco&show_icons=true&theme=dark&bg_color=6d5959&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alanylourenco&theme=dark&background=6d5959&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=30363d"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanylourenco&bg_color=6d5959&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alanylourenco&bg_color=6d5959&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
 
