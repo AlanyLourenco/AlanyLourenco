@@ -25,11 +25,11 @@
 </p>
 
 <h2 align="center">👤 About me</h2>
-<hr>
+
 
 <div align="center">
   
-<img align="right" src="LINK_DA_SUA_IMAGEM_OU_GIF" width="220px">
+<img align="right" src="https://github.com/AlanyLourenco/AlanyLourenco/blob/main/alany01.png" width="220px" style="border-radius:50%">
 
 <p align="left">
 Hello There! I'm Alany Paço, a Software Engineering student. I enjoy learning new technologies and exploring the world of data, design, and software engineering.<br><br>
