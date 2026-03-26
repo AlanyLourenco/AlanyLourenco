@@ -31,7 +31,7 @@
   
 <img align="right" src="https://github.com/AlanyLourenco/AlanyLourenco/blob/main/alany01.png" width="220px" style="border-radius:50%">
 
-<p style="text-align: left; max-width: 600px; margin: 0 auto>
+<p style="text-align: left; max-width: "600px"; margin: 0 auto;">
   
 Hello there! I'm Alany Paço, a Software Engineering student passionate about building meaningful digital experiences. I enjoy exploring new technologies and connecting the worlds of data, design, and software development.<br>
 
